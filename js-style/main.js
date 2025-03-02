@@ -1,6 +1,6 @@
 document.getElementById('btn-login-shit').addEventListener('click',
     function () {
-        window.location.href = "/login.html";
+        window.location.href = "login.html";
     }
 )
 
